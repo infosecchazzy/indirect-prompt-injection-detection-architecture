@@ -18,4 +18,4 @@ A NIST-aligned risk-based architecture for detecting and mitigating indirect pro
 
 ## Author
 
-Charles V. Frank
+Charles V. Frank Jr.
